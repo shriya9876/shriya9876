@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, Shriya here
 
 <!--
 **shriya9876/shriya9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, Shriya here
+
 
 Full-stack engineer building reliable, fast web apps.  
 .NET 8, ASP.NET Core, Angular, Blazor, Azure SQL, Kafka, GitHub Actions.
 
+<!--
 **Portfolio** · **Resume** · **Email** · **LinkedIn**  
 [your-portfolio-url] · [your-resume-url] · [you@domain.com] · [linkedin.com/in/you]
+-->
 
 ---
 
 ## What I focus on
 - **Backend:** .NET APIs, EF Core, SQL performance, clean architecture
-- **Frontend:** Angular/Blazor UI, component libraries, accessibility, testing
+- **Frontend:** Angular UI, component libraries, accessibility, testing
 - **Cloud/DevOps:** Azure, CI/CD, containers, observability, cost efficiency
 
 ---
@@ -45,8 +47,8 @@ Full-stack engineer building reliable, fast web apps.
 
 ---
 
-## Now / Open to
-Shipping robust full-stack features, exploring Blazor islands and micro-frontends.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriya9876&show_icons=true&count_private=true&theme=tokyonight)
+
 
 ---
 
