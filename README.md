@@ -31,33 +31,9 @@ Full-stack engineer building reliable, fast web apps.
 
 ---
 
-## Featured projects
+### Tech
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,azure,postgres,redis,kafka,docker&perline=12)](https://skillicons.dev)
 
-### Credit Analytics Dashboard
-**Impact:** Faster insights and smoother UX for credit teams.  
-**Problem:** Slow score retrieval and clunky UI workflows.  
-**What I built:**
-- Consolidated .NET APIs with caching and query tuning
-- Angular dashboard with reusable components and route guards
-**Result:** P95 latency reduced; page loads significantly faster.  
-**Stack:** .NET 8, EF Core, Angular, Azure SQL, Redis  
-**Links:** Demo · Code · Write-up
-
-### Real-time Telemetry & Alerts
-**Impact:** Earlier fault detection and safer operations.  
-**Problem:** Delayed diagnostics and manual monitoring.  
-**What I built:**
-- Event pipeline with Kafka and background workers
-- Live UI with SignalR and alerting rules
-**Result:** Alert time reduced; fewer missed anomalies.  
-**Stack:** .NET 8, Kafka, SignalR, Angular, PostgreSQL  
-**Links:** Demo · Code · Write-up
-
-#### More projects
-- **Blazor UI Components** — Reusable, accessible components for enterprise apps. *(Blazor, .NET)*
-- **Angular Widget Kit** — Configurable widgets with storybook and tests. *(Angular, RxJS)*
-- **Document Processing Service** — Async pipelines for OCR and metadata. *(.NET, Queue)*
-- **CI/CD Templates** — Opinionated GitHub Actions for .NET + Angular. *(YAML, Actions)*
 
 ---
 
