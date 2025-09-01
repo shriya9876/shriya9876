@@ -47,8 +47,8 @@ Full-stack engineer building reliable, fast web apps.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriya9876&show_icons=true&count_private=true&theme=tokyonight)
 
+![Metrics](github-metrics.svg)
 
 ---
 
